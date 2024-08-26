@@ -111,6 +111,7 @@ sudo systemctl enable docker
 ### Create a new Jenkins pipeline project.
 
 ### Configure GitHub repository
+- You can use you own .html file for your website.
 
 In the pipeline settings, link your GitHub repository.
 
